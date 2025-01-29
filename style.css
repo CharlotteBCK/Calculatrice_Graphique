@@ -1,0 +1,7 @@
+.calculator-container {
+    max-width: 350px; 
+}
+#calculOutput {
+    height: 50px;
+    font-size: 1.5rem;
+}
